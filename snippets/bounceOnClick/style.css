@@ -1,0 +1,14 @@
+.bounce-btn {
+  padding: 12px 24px;
+  background-color: #6200ea;
+  color: white;
+  border: none;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.bounce-btn:active {
+  transform: scale(1.2);
+}
